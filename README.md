@@ -108,3 +108,4 @@ sleep=1000
   → draw_out (вывод на экран)
 ```
 <img width="329" height="393" alt="image" src="https://github.com/user-attachments/assets/3fd4a1d8-bb36-4d99-a8e2-0ffc60c8568a" />
+<img width="436" height="366" alt="image" src="https://github.com/user-attachments/assets/1ce0ea6c-3b6b-4653-8d29-f08d10e216af" />
